@@ -8,5 +8,7 @@ Each challenge has its own folder in [`src/`](/src/):
 4. [Voting Vault](/src/voting-vault/)
 5. [Meta Staking](/src/meta-staking/)
 6. [Gnosis Unsafe](/src/gnosis-unsafe/)
+7. [Rational](/src/rational/)
+8. [Launchapd](/src/launchpad/)
 
 Solutions can be found in [`test/solutions/`](/test/solutions/).
